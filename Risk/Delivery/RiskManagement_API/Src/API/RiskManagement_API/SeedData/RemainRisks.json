@@ -1,0 +1,16 @@
+[
+  {
+    "Id": "f2a3b4c5-d6e7-890f-1234-56789abcdef0",
+    "IdentifyRiskId": "c3d4e5f6-a7b8-9012-3456-7890abcdef12",
+    "ImpactId": "d4e5f6a7-b8c9-0123-4567-890abcdef123",
+    "ProbabilityOfOccurrenceId": "e5f6a7b8-c9d0-1234-5678-90abcdef1234",
+    "RiskCriteriaId": "f6a7b8c9-d0e1-2345-6789-0abcdef12345",
+    "State": 0,
+    "RowVersion": "AAAAAAAAB+A=",
+    "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+    "CreatedOn": "2025-07-03T00:00:00",
+    "UpdatedBy": null,
+    "UpdatedOn": null,
+    "RemainRiskResult": 4
+  }
+]

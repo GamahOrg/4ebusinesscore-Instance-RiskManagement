@@ -1,0 +1,57 @@
+[
+  {
+    "Id": 1,
+    "NameAr": "تحديد المخاطر",
+    "NameEn": "IdentifyRisk",
+    "FromSeed": true,
+    "CreatedBy": "6b7c8d9e-0f1a-2b3c-4d5e-6f7a8b9c0d1e",
+    "CreatedOn": "2025-08-28T14:00:00Z",
+    "UpdatedBy": null,
+    "UpdatedOn": null,
+    "State": "NotDeleted"
+  },
+  {
+    "Id": 2,
+    "NameAr": "المخاطر المتأصلة",
+    "NameEn": "InherentRisk",
+    "FromSeed": true,
+    "CreatedBy": "8a9b0c1d-2e3f-4a5b-6c7d-8e9f0a1b2c3d",
+    "CreatedOn": "2025-08-27T10:30:00Z",
+    "UpdatedBy": null,
+    "UpdatedOn": null,
+    "State": "NotDeleted"
+  },
+  {
+    "Id": 3,
+    "NameAr": "الضوابط التنظيمية",
+    "NameEn": "RegulatoryControl",
+    "FromSeed": true,
+    "CreatedBy": "9b0c1d2e-3f4a-5b6c-7d8e-9f0a1b2c3d4e",
+    "CreatedOn": "2025-08-26T09:00:00Z",
+    "UpdatedBy": null,
+    "UpdatedOn": null,
+    "State": "NotDeleted"
+  },
+  {
+    "Id": 4,
+    "NameAr": "المخاطر المتبقية",
+    "NameEn": "RemainRisk",
+    "FromSeed": true,
+    "CreatedBy": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+    "CreatedOn": "2025-08-25T08:00:00Z",
+    "UpdatedBy": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+    "UpdatedOn": "2025-08-28T12:00:00Z",
+    "State": "NotDeleted"
+  },
+  {
+    "Id": 5,
+    "NameAr": "خطة المعالجة",
+    "NameEn": "ProcessingPlan",
+    "FromSeed": true,
+    "CreatedBy": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+    "CreatedOn": "2025-08-24T07:00:00Z",
+    "UpdatedBy": null,
+    "UpdatedOn": null,
+    "State": "NotDeleted"
+  }
+]

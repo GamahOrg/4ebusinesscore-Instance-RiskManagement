@@ -1,0 +1,16 @@
+[
+  {
+    "Id": "e1f2a3b4-c5d6-7890-de12-3456789abcde",
+    "IdentifyRiskId": "c3d4e5f6-a7b8-9012-3456-7890abcdef12",
+    "ControlId": "b8c9d0e1-f2a3-4567-890b-cdef12345678",
+    "ProbabilityOfEffectivenesId": "d0e1f2a3-b4c5-6789-0def-123456789abc",
+    "EffectOfTheEventId": "c9d0e1f2-a3b4-5678-90cd-ef123456789a",
+    "AppliedRegulatoryControls": "سياسة تنويع الاستثمارات",
+    "State": 0,
+    "RowVersion": "AAAAAAAAB98=",
+    "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+    "CreatedOn": "2025-07-03T00:00:00",
+    "UpdatedBy": null,
+    "UpdatedOn": null
+  }
+]

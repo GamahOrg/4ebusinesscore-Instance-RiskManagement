@@ -1,0 +1,23 @@
+[
+  {
+    "Id": "c3d4e5f6-a7b8-9012-3456-7890abcdef12",
+    "Title": "خسارة محتملة في الاستثمار",
+    "Description": "خسارة محتملة في محفظة الاستثمار بسبب تقلبات السوق",
+    "Reason": "تقلبات السوق العالمية",
+    "Effects": "انخفاض في العوائد المالية",
+    "IdentifyRiskDate": "2025-07-03T00:00:00",
+    "RiskStatus": 1,
+    "SubCateoryId": "b2c3d4e5-f6a7-8901-2345-67890abcdef1",
+    "OrgId": "6aaf469a-0efc-45ca-93cd-a458c3bdc365",
+    "AmbassadorUserId": "702cb42b-6fdf-4d15-8f9d-80d093ced898",
+    "OwnerUserId": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+    "ResponsibleUserId": "8449047d-3a20-44c4-e4e7-08dcf126d794",
+    "LkRiskTypeId": 3,
+    "State": 0,
+    "RowVersion": "AAAAAAAAB9c=",
+    "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+    "CreatedOn": "2025-07-03T00:00:00",
+    "UpdatedBy": null,
+    "UpdatedOn": null
+  }
+]

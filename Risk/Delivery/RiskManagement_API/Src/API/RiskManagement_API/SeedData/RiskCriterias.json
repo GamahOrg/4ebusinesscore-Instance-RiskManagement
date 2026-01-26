@@ -1,0 +1,16 @@
+[
+  {
+    "Id": "f6a7b8c9-d0e1-2345-6789-0abcdef12345",
+    "NameAr": "متوسط",
+    "NameEn": "Medium",
+    "FromNumber": 4,
+    "ToNumber": 6,
+    "CriteriaColor": "#FFC107",
+    "State": 0,
+    "RowVersion": "AAAAAAAAB9o=",
+    "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+    "CreatedOn": "2025-07-03T00:00:00",
+    "UpdatedBy": null,
+    "UpdatedOn": null
+  }
+]

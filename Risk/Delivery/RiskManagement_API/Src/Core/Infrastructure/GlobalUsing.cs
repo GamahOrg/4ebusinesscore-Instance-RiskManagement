@@ -1,0 +1,17 @@
+﻿global using _4EPlatform.Domain;
+global using _4EPlatform.Domain.Models;
+global using _4EPlatForm.Infrastrucure.Repostories;
+global using Domain.Utilities.Enums;
+global using DTO;
+global using Infrastrucure.Context;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.Infrastructure;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using Microsoft.EntityFrameworkCore.Migrations;
+global using Microsoft.EntityFrameworkCore.Storage;
+global using System.Collections;
+global using System.Dynamic;
+global using System.Linq.Expressions;
+global using System.Security.Claims;
+global using System.Text.Json;

@@ -1,0 +1,15 @@
+[
+  {
+    "Id": "e5f6a7b8-c9d0-1234-5678-90abcdef1234",
+    "NameAr": "محتمل",
+    "NameEn": "Likely",
+    "ImpactNumber": 3,
+    "ProbabilityColor": "#FF9800",
+    "State": 0,
+    "RowVersion": "AAAAAAAAB9k=",
+    "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+    "CreatedOn": "2025-07-03T00:00:00",
+    "UpdatedBy": null,
+    "UpdatedOn": null
+  }
+]

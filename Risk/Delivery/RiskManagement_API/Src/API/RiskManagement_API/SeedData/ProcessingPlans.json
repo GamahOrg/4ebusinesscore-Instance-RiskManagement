@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "b4c5d6e7-f8a9-012a-3456-789abcdef012",
+    "IdentifyRiskId": "c3d4e5f6-a7b8-9012-3456-7890abcdef12",
+    "TypeTreatmentPlanId": "a3b4c5d6-e7f8-901a-2345-6789abcdef01",
+    "UserId": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+    "DateEndPlan": "2025-12-31T00:00:00",
+    "Description": "تنفيذ استراتيجية تنويع المحفظة",
+    "ImplementationStatusId": "2781cdf2-5b24-4c69-fcfb-08dd8896c042",
+    "Notes": "سيتم مراجعة الأداء ربع سنويا",
+    "State": 0,
+    "RowVersion": "AAAAAAAAB+I=",
+    "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+    "CreatedOn": "2025-07-03T00:00:00",
+    "UpdatedBy": null,
+    "UpdatedOn": null
+  }
+]

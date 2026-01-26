@@ -1,0 +1,17 @@
+[
+  {
+    "Id": "e7f8a9b0-c1d2-345a-6789-abcdef012345",
+    "RecordId": "c3d4e5f6-a7b8-9012-3456-7890abcdef12",
+    "IdentifyRiskId": "c3d4e5f6-a7b8-9012-3456-7890abcdef12",
+    "TableName": "IdentifyRisks",
+    "Action": "Create",
+    "OldValue": null,
+    "NewValue": "{\"Title\":\"خسارة محتملة في الاستثمار\"}",
+    "State": 0,
+    "RowVersion": "AAAAAAAAB+U=",
+    "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+    "CreatedOn": "2025-07-03T00:00:00",
+    "UpdatedBy": null,
+    "UpdatedOn": null
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "Id": "d0e1f2a3-b4c5-6789-0def-123456789abc",
+    "NameAr": "فعال",
+    "NameEn": "Effective",
+    "ImpactNumber": 4,
+    "EffectColor": "#4CAF50",
+    "State": 0,
+    "RowVersion": "AAAAAAAAB94=",
+    "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+    "CreatedOn": "2025-07-03T00:00:00",
+    "UpdatedBy": null,
+    "UpdatedOn": null
+  }
+]

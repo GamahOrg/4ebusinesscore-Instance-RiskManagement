@@ -1,0 +1,29 @@
+[
+  {
+    "Id": "f8a9b0c1-d2e3-456b-789a-bcdef0123456",
+    "UserId": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+    "AmbassadorOfDanger": true,
+    "Approvals": true,
+    "DangerAddress": false,
+    "DangerSymbol": true,
+    "DateOfDiscovery": true,
+    "InherentRiskLevel": true,
+    "MainCategory": true,
+    "OriginOfDanger": false,
+    "OwnerOfTheRisk": true,
+    "PlanExpiryDate": true,
+    "Procedures": false,
+    "ResidualRiskScore": true,
+    "SectorManagement": true,
+    "SubcategoryRisk": true,
+    "TreatmentPlanOwner": false,
+    "TreatmentPlanStatus": true,
+    "TreatmentPlanType": true,
+    "State": 0,
+    "RowVersion": "AAAAAAAAB+Y=",
+    "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+    "CreatedOn": "2025-07-03T00:00:00",
+    "UpdatedBy": null,
+    "UpdatedOn": null
+  }
+]
